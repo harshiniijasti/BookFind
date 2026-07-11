@@ -40,7 +40,6 @@ A modern book discovery web application built with Next.js, React, TypeScript, C
 - Vercel
 
 
-Open http://localhost:3000
 
 ## 🎯 Future Improvements
 
