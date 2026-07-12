@@ -46,6 +46,8 @@ A modern book discovery web application built with Next.js, React, TypeScript, C
 - AI-powered book recommendations
 - User reviews and ratings
 - Book sharing
+-Advanced search with filters (author, genre, language, publication year)
+-Notifications for new releases by favorite authors
 
 ##
 
