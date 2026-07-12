@@ -40,8 +40,6 @@ A modern book discovery web application built with Next.js, React, TypeScript, C
 - Vercel
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/8642d473-ddeb-4470-beaa-e80555f5191f" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/f47acbd6-a3ca-4c7a-8244-c1e22f13a3e6" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/ab832e9c-9476-4db6-a56f-09ba8555b69b" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/d6d4d643-2b0d-4d4d-b554-38ccbf083405" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/d85a8db7-7d01-47c1-8d07-d761cb5cb230" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/d61708b2-d829-4165-803d-6d3b22e80ed9" />
 <img width="502" height="427" alt="image" src="https://github.com/user-attachments/assets/55154ed3-9e89-4d0d-92ae-4c0dacd5538a" />
