@@ -44,6 +44,9 @@ A modern book discovery web application built with Next.js, React, TypeScript, C
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/d6d4d643-2b0d-4d4d-b554-38ccbf083405" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/d85a8db7-7d01-47c1-8d07-d761cb5cb230" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/d61708b2-d829-4165-803d-6d3b22e80ed9" />
+<img width="502" height="427" alt="image" src="https://github.com/user-attachments/assets/55154ed3-9e89-4d0d-92ae-4c0dacd5538a" />
+<img width="947" height="437" alt="image" src="https://github.com/user-attachments/assets/53baaa7c-0f26-411b-aee1-df7f8aac3758" />
+
 
 ## 🎯 Future Improvements
 
