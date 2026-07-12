@@ -58,4 +58,6 @@ A modern book discovery web application built with Next.js, React, TypeScript, C
 
 **Harshini Jasti**
 
-GitHub: https://github.com/harshiniijasti
+https://github.com/harshiniijasti
+
+https://www.linkedin.com/in/harshinijasti
