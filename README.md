@@ -45,8 +45,6 @@ A modern book discovery web application built with Next.js, React, TypeScript, C
 
 - AI-powered book recommendations
 - User reviews and ratings
-- Reading progress tracking
-- Dark mode
 - Book sharing
 
 ##
