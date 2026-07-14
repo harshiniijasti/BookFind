@@ -7,8 +7,6 @@ const columns = [
     links: [
       { label: 'Home', href: '/' },
       { label: 'Explore', href: '/explore' },
-      { label: 'Trending', href: '/explore' },
-      { label: 'New Releases', href: '/explore' },
     ],
   },
   {
@@ -19,23 +17,15 @@ const columns = [
       { label: 'Profile', href: '/profile' },
     ],
   },
-  {
-    title: 'Company',
-    links: [
-      { label: 'About', href: '/about' },
-      { label: 'Careers', href: '/about' },
-      { label: 'Contact', href: '/about' },
-    ],
-  },
 ]
 
 export function Footer() {
   return (
     <footer className="border-t border-border bg-card">
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-        <div className="grid gap-10 md:grid-cols-[1.5fr_1fr_1fr_1fr]">
+        <div className="grid gap-90 md:grid-cols-[1.5fr_1fr_1fr_1fr]">
           <div className="max-w-xs">
-            <Link href="/" className="flex items-center gap-2" aria-label="BookFind home">
+            <Link href="/" className="flex items-center gap-5" aria-label="BookFind home">
               <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-primary text-primary-foreground">
                 <BookOpen size={18} />
               </span>
@@ -64,7 +54,7 @@ export function Footer() {
           ))}
         </div>
         <div className="mt-10 flex flex-col items-center justify-between gap-3 border-t border-border pt-6 text-sm text-muted-foreground sm:flex-row">
-          <p>© {new Date().getFullYear()} BookFind. All rights reserved.</p>
+          <p>© Helping readers discover their next favourite book</p>
           <p>Crafted for readers, by readers.</p>
         </div>
       </div>
